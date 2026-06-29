@@ -1,8 +1,8 @@
 class Gatekept < Formula
   desc "macOS security audit & optimization — catches fake/cracked/tampered apps AV misses"
   homepage "https://github.com/myusufyilmaz/gatekept"
-  url "https://github.com/myusufyilmaz/gatekept/archive/refs/tags/v1.5.0.tar.gz"
-  sha256 "5b069d1d9db395945be809077655952e36a14b7addc22d47fa418a63af1ab363"
+  url "https://github.com/myusufyilmaz/gatekept/archive/refs/tags/v1.6.0.tar.gz"
+  sha256 "95ae451820263d7c0005eef9d43c067bb61602cb2e8b555e1a1109bf5e973b74"
   license "MIT"
 
   def install
